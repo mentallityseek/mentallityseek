@@ -5,7 +5,6 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
 ---
 
 ### 🛠️ Technology Stack
-
 <p align="left">
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="C#" />
