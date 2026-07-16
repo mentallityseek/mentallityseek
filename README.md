@@ -39,13 +39,13 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
 
 ---
 
-### 🎓 Пройденные курсы
-
+### 💼 Courses Completed
+ 
 | Course name | Platform | Year of completion | Link to the certificate |
 | :--- | :--- | :--- | :--- |
-| "Поколение" python курс для продвинутых | Stepik -> | 2026 | [Check]([https://stepik.org/cert/3266141]) |
-| "Поколение" python курс для начинающих | Stepik -> | 2026 | [Check]([https://stepik.org/cert/3219447]) |
-| "Программирование на C#" | YouTube -> (SimpleCode) | 2026 | Full Course |
+| "Поколение" python курс для продвинутых | Stepik | 2026 | [Check](https://stepik.org/cert/3266141) |
+| "Поколение" python курс для начинающих | Stepik | 2026 | [Check](https://stepik.org/cert/3219447) |
+| "Программирование на C#" | YouTube (SimpleCode) | 2026 | Full Course |
 ---
 
 ### 📬 Контакты
