@@ -28,7 +28,7 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
 
 ---
 
-### 🧰 Дополнительные технологии
+### 🧰 Additional technologies
 
 | Technology / Tool | Proficiency level | Use for |
 | :--- | :--- | :--- |
