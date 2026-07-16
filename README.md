@@ -9,8 +9,8 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="C#" />
   <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://img.shields.io/github/followers/mentallityseek?style=flat-square&logo=cplusplus&logoColor=white&logoSize=20&label=C%2B%2B&labelColor=black&color=black
-" alt="C++" />
+  <img alt="С++" src="https://img.shields.io/github/followers/mentallityseek?style=flat-square&logo=cplusplus&logoColor=white&logoSize=20&label=C%2B%2B&labelColor=black&color=black">
+
   <img src="https://shields.io" alt="Unity" />
   <img src="https://shields.io" alt="Git" />
 </p>
