@@ -7,7 +7,7 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
 ### 🛠️ Technology Stack
 <p align="left">
   <img alt="C++" src="https://img.shields.io/badge/%20-black?style=flat-square&logo=C%2B%2B&logoColor=white&logoSize=24&label=C%2B%2B&labelColor=black&color=black">
-  <img alt="C#" src="https://img.shields.io/badge/%20-black?style=flat-square&logo=C%20Sharp&logoColor=black&logoSize=24&label=C%23&labelColor=black&color=black">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=.NET&logoSize=24">
   <img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white&logoSize=24&labelColor=black&color=black">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white&logoSize=24&labelColor=black&color=black">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgresQL-black?style=flat-square&logo=PostgresQL&logoColor=white&logoSize=24&labelColor=black&color=black">
