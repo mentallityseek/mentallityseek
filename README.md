@@ -48,7 +48,7 @@ I'm 17 y.o, i am actively developing my skills in server-side development and ap
 | "Программирование на C#" | YouTube (SimpleCode) | 2026 | Full Course |
 ---
 
-### 📬 Контакты
+### 📬 Contact Information
 
 * 📧 **Email:** [d.vandin@bk.ru](mailto:d.vandin@bk.ru)
 * ✈️ **Telegram:** [@HA_XAPAKTEP3](https://t.me)
