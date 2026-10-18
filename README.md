@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm 17 y.o, i am actively developing my skills in server-side development and application creation. I enjoy solving complex algorithmic problems and refining code.
+I'm 18 y.o, i am actively developing my skills in back-front dev and application creation. I enjoy solving complex algorithmic problems and refining code.
 
 ---
 
